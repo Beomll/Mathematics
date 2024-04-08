@@ -1,2 +1,2 @@
 # Mathatics
-Mathematics Module Using DL
+Mathematics Module Using Deep Learning & Metric Used Deep Learning
